@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL2oRQ5VF2T"
+#define BLYNK_TEMPLATE_ID "add_yours"
 #define BLYNK_TEMPLATE_NAME "3dadGAS"
-#define BLYNK_AUTH_TOKEN "ku7760YrJm8KTcwB1zRpCNvtA0Vg0tti"
+#define BLYNK_AUTH_TOKEN "add_yours"
 
 #include <Arduino.h>
 #include <Wire.h>
@@ -12,7 +12,7 @@
 
 // Wi-Fi credentials
 char ssid[] = "TE-Data";
-char pass[] = "Kk0501234714";
+char pass[] = "************";
 
 // OLED Display (128x64)
 U8X8_SSD1306_128X64_NONAME_HW_I2C u8x8(U8X8_PIN_NONE);
